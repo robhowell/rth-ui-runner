@@ -21,7 +21,7 @@
     "commander": "^4.1.1",
     "css-loader": "^3.0.0",
     "eslint-config-prettier": "^6.0.0",
-    "eslint-config-semipretty": "^4.0.0",
+    "eslint-config-semipretty": "^6.0.0",
     "eslint-config-semistandard": "^15.0.0",
     "eslint-config-standard": "^13.0.0",
     "eslint-plugin-import": "^2.14.0",

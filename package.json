@@ -18,7 +18,7 @@
     "@mdx-js/loader": "^1.0.0",
     "@mdx-js/mdx": "^1.0.0",
     "babel-loader": "^8.0.2",
-    "commander": "^4.1.1",
+    "commander": "^5.0.0",
     "css-loader": "^3.0.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-semipretty": "^6.0.0",
